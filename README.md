@@ -1,15 +1,14 @@
 
 # INTEGRANTES:
 
-### INTEGRANTES:
 ## LIDER: 
-...Maria Camila Gonzalez
+Maria Camila Gonzalez
 ## CONSTRTUCTOR:
-...Laura Catalina Porras Pineda 
+Laura Catalina Porras Pineda 
 ## DISEÑADOR:
-...Laura Yineth Agudelo Motavita
-...Laura Vanessa Camargo Abril
+Laura Yineth Agudelo Motavita
+Laura Vanessa Camargo Abril
 ## PROGRAMADOR:
-...Luis Carlos Bonilla Santos
-...Laura Sofia RIncon Meza
+Luis Carlos Bonilla Santos
+Laura Sofia RIncon Meza
 
