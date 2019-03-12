@@ -2,7 +2,7 @@
 # INTEGRANTES:
 
 ### LIDER: 
-Maria Camila Gonzalez
+Maria Camila Gonzalez 
 ### CONSTRTUCTORA:
 Laura Catalina Porras Pineda 
 ### DISEÑADORAS:
