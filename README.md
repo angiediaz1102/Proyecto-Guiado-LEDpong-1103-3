@@ -23,6 +23,7 @@ A tráves de múltiples ordenes enviadas desde el código hacia la placa de Ardu
 5.Se arma el circuito, se conectan los puentes de las matrices led al protoboard y al arduino,se conectan los potenciómetros al protoboard por medio de puentes y por último se conecta el buzzer al circuito
 
 -TERMINADO EL PROCESO: se ensambla el prototipo y se incorpora el circuito
+[1]!(https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/IMG-6915.JPG)
 
 ### MATERIALES:
 
