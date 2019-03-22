@@ -5,9 +5,13 @@ A tráves de múltiples ordenes enviadas desde el código hacia la placa de Ardu
 
 ### ¿CÓMO SE ARMA?:
 1.Se realiza el diseño en 3D del proyecto en la plataforma Freecad
+
 2.Se mide y se corta el cartón industrial según las medidas requeridas
+
 3.Se desprenden las matrices de sus bases para poner puentes los cuales estañan de la base de la matriz a la parte superior led con cada una de las matrices
+
 4.Se estañan las matrices entre ellas 
+
 5.Se arma el circuito, se conectan los puentes de las matrices led al protoboard y al arduino,se conectan los potenciómetros al protoboard por medio de puentes y por último se conecta el buzzer al circuito
 
 -TERMINADO EL PROCESO: se ensambla el prototipo y se incorpora el circuito
