@@ -15,9 +15,9 @@ Laura Vanessa Camargo Abril
 Luis Carlos Bonilla Santos
 Laura Sofia Rincón Meza
 
-### METODOLOGÍA DE DISEÑO 
+## METODOLOGÍA DE DISEÑO 
 
-## DISEÑO CENTRADO EN EL USUARIO
+### DISEÑO CENTRADO EN EL USUARIO
 
 Elegimos este tipo de diseño pensando en satisfacer una necesidad específica del usuario,con el fin de ofrecer una utilidad fructífera a la población que lo requiere
 
