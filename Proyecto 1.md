@@ -13,25 +13,38 @@ A tráves de múltiples ordenes enviadas desde el código hacia la placa de Ardu
 
 ### MATERIALES:
 
--6 Matrices led 8x8 con controlador MAX 7219
--2 Potenciometros 
--1 Resistencia 150 Ohm 
--1 Buzzer 
--Placa arduino Mega 2560
--Jumpers macho – macho,macho-hembra, hembra-hembra
--Cautín
--Estaño
--Cartón
--Pegamento
--Cinta
--Pintura
++6 Matrices led 8x8 con controlador MAX 7219
+
++2 Potenciometros 
+
++1 Resistencia 150 Ohm 
+
++1 Buzzer 
+
++Placa arduino Mega 2560
+
++Jumpers macho – macho,macho-hembra, hembra-hembra
+
++Cautín
+
++Estaño
+
++Cartón
+
++Pegamento
+
++Cinta
+
++Pintura
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/protoboard_bb2.jpg)
 ![2](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/protoboard_esquem%C3%A1tico2.jpg)
+
 ### MEDIDAS:
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/pong%20medidas%201.jpg)
 ![2](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/pong%20medidas%202.jpg)
+
 ### PROCESO:
 
 ![1](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/IMG-6915.JPG)
