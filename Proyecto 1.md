@@ -67,4 +67,4 @@ A tráves de múltiples ordenes enviadas desde el código hacia la placa de Ardu
 
 ![7](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Im%C3%A1genes/0B782352-0BFA-490E-BCD8-8E8D887F3882.JPG)
 
-![8](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Código/Pong_Led11111.ino)
+![Código](https://github.com/colegio-seminario-diocesano-de-duitama/Proyecto-Guiado-LEDpong-1103-3/blob/master/Código/Pong_Led11111.ino)
